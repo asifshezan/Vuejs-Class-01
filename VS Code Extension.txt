@@ -1,0 +1,65 @@
+VS Code Extensions For VueJS
+
+
+VueJS Extensions:
+Vue Language Features (Volar) (Vue) - Language support for Vue 3
+
+Vue 3 Snippets (hollowtree) - A Vue.js 3 And Vue.js 2 Code Snippets Extension
+
+TypeScript Vue Plugin (Volar) (Vue) - Vue Plugin for TypeScript server
+
+JavaScript (ES6) Code Snippets (charalampos karypidis) - Extension offers a collection of handy code snippets that can save you time and effort while writing JavaScript code.
+
+DotENV (mikestead) - Support for dotenv file syntax.
+
+ESLint (Microsoft) - It is a widely adopted linter that helps you catch errors, enforce coding standards, and improve code quality in JavaScript and TypeScript.
+
+npm Intellisense (Christian Kohler) - Saves you time and effort by providing intelligent auto-completion for npm package imports.
+
+Prettier (Prettier) - Code formatter that enforces consistent code style across your projects.
+
+Path Intellisense (Christian Kohler) - Simplifies file path entry by offering intelligent autocompletion for file paths in your code.
+
+Bracket Pair Colorizer 2 (CoenraadS) - Colorizes matching brackets to easily see the opening and closing brackets, braces and parentheses (Built In Now)
+
+Auto Import (steoates) - Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
+
+Import Cost (Wix) - Provides real-time feedback on the size of imported JavaScript or TypeScript modules.
+
+Postman (Postman) - Allows you to send an HTTP requests and view the response in VSCode directly.
+
+
+
+
+HTML & CSS Extensions:
+Auto Rename Tag (Jun Han) - Automatically renames HTML or XML tags when you modify the opening or closing tag.
+
+Auto Close Tag (Jun Han) - Automatically add HTML/XML close tag.
+
+SVG Preview (Simon Siefke) - Provides a live preview of SVG files directly in the editor.
+
+HTML CSS Support (ecmel) - Provides enhanced CSS support within HTML files. It offers intelligent suggestions and auto-completion for CSS properties.
+
+IntelliSense for CSS class names (Zignd) - Provides intelligent suggestions and auto-completion for CSS class names.
+
+CSS Peek (Pranay Prakash) - It is a powerful extension that enhances CSS development by allowing you to peek into the associated CSS styles directly from HTML or JavaScript code.
+
+Stylelint (Stylelint) - Official Stylelint extension for Visual Studio Code.
+
+Tailwind CSS IntelliSense (Tailwind Labs) - Intelligent Tailwind CSS tooling for VS Code.
+
+
+
+
+BOOST UP EDITOR:
+Live Server (Ritwick Dey) - Allows you to create a local development server with live reloading.
+
+Code Spell Checker (Street Side Software) - Spelling Checker for Visual Studio Code.
+
+CodeSnap (adpyke) - Simplifies the process of taking code screenshots.
+
+vscode-icons (VSCode Icons Team) - Brings a touch of visual brilliance to your coding workspace by replacing the default file icons.
+
+GitLens (GitKraken) - It is a powerful extension that integrates Git capabilities directly into your editor.
+
+Code Runner (Jun Han) - Provides a convenient way to quickly run code snippets or entire files in various programming languages from within Visual Studio Code.
